@@ -1,6 +1,10 @@
 # awesome-serverless
 serverless学习资源汇总
 
+## 站点
+
+- [serverless 中文网](https://serverlesscloud.cn/)
+
 
 ## 参考资料
 
