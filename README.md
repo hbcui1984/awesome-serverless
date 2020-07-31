@@ -13,10 +13,7 @@ serverless学习资源汇总
 
 ## 参考资料
 - [Serverless前端工程化落地与实践](https://time.geekbang.org/dailylesson/detail/100045239) - 王俊杰@腾讯云，GMTC2019.深圳站，2019.12.20，极客时间付费视频
-- [Backend For Frontend（BFF）in Serverless](https://time.geekbang.org/dailylesson/detail/100033230) - 杨凯（亚顿） 阿里巴巴高级前端专家，深圳 ArchSummit 全球架构师峰会，2019.7.12，极客时间付费视频。
-
->摘要记录：微服务->API网关->BFF，说明前后端分工的历史演进，引入serverless，并介绍阿里内部如何落地serverless
-
+- [Backend For Frontend（BFF）in Serverless](https://time.geekbang.org/dailylesson/detail/100033230) - 杨凯（亚顿） 阿里巴巴高级前端专家，深圳 ArchSummit 全球架构师峰会，2019.7.12，极客时间付费视频。摘要记录：微服务->API网关->BFF，说明前后端分工的历史演进，引入serverless，并介绍阿里内部如何落地serverless
 - [云开发初探 —— 更简便的小程序开发模式](https://juejin.im/post/5ba2fa43e51d450e5d0b0676) - 李成熙@腾讯云，掘金开发者大会，2018.09.20，掘金文章
 
 ## 学习资源
