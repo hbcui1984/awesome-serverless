@@ -7,6 +7,10 @@ serverless学习资源汇总
 - [云开发](https://www.cloudbase.net/) - 腾讯TCB团队出品，支持小程序、Web应用、移动应用
 - [微信小程序云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html) - 微信的serverless方案，由腾讯云 TCB 提供存储和计算服务
 
+## 创新探索
+
+- [云对象 - 重新定义前后端交互](https://juejin.cn/post/7140841434977927175)，前后端交互的变革，无需后端写接口，前端发ajax请求
+
 ## 站点
 
 - [serverless 中文网](https://serverlesscloud.cn/)
