@@ -3,10 +3,11 @@ serverless学习资源汇总
 
 ## 落地方案
 
-- [uniCloud](https://uniapp.dcloud.net.cn/uniCloud/README) - DCloud 联合阿里云、腾讯云，为 uni-app 的开发者提供的基于 serverless 模式和 js 编程的云开发平台
+- [uniCloud](https://uniapp.dcloud.net.cn/uniCloud/README) - DCloud 联合阿里云、腾讯云、蚂蚁金服等云厂商，为 uni-app 的开发者提供的基于 serverless 模式和 js 编程的云开发平台
 - [腾讯云开发](https://www.cloudbase.net/) - 腾讯TCB团队出品，支持小程序、Web应用、移动应用
 - [微信小程序云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html) - 微信的serverless方案，由腾讯云 TCB 提供存储和计算服务
 - [阿里云EMAS Serverless](https://help.aliyun.com/document_detail/436030.html?spm=a2c4g.435822.0.0.749137b0v2sZ8M) - 阿里云EMAS团队出品的serverless解决方案
+- [支付宝云开发](https://cloud.alipay.com/main/product/cloudbase) - 支付宝团队出品的基于 Serverless 的一站式小程序开发平台
 
 ## 创新探索
 
