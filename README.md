@@ -18,7 +18,7 @@ serverless学习资源汇总
 - [serverless 中文网](https://serverlesscloud.cn/)
 
 ## 参考资料
-- [回顾外滩 | DCloud崔红保：云开发与跨端技术，构建企业降本增效新篇章](https://mp.weixin.qq.com/s/YqumnQyjStcf0Z9gmMeUXA) - 崔红保@DCloud在外滩大会上的演讲文字实录
+- [回顾外滩 | DCloud崔红保：云开发与跨端技术，构建企业降本增效新篇章](https://juejin.cn/post/7306337248623034395) - 崔红保@DCloud在外滩大会上的演讲文字实录
 - [Serverless前端工程化落地与实践](https://time.geekbang.org/dailylesson/detail/100045239) - 王俊杰@腾讯云，GMTC2019.深圳站，2019.12.20，极客时间付费视频。亮点记录：算力的两个发展方向：1、让算力更强，让CPU运行更快，有更多的核心；2、让算力的分配更加的合理
 - [从前端和云厂商的视角看Serverless与未来的开发生态](https://time.geekbang.org/dailylesson/detail/100045220) - 杜欢 阿里巴巴高级前端技术专家，GMTC2019.深圳站，2019.12.20，极客时间付费视频。摘要内容：通过DIY电脑类比当前的ECS、SLB、RDS等管理，从宏观层面讲解 serverless 的愿景
 - [Backend For Frontend（BFF）in Serverless](https://time.geekbang.org/dailylesson/detail/100033230) - 杨凯（亚顿） 阿里巴巴高级前端专家，深圳 ArchSummit 全球架构师峰会，2019.7.12，极客时间付费视频。摘要记录：微服务->API网关->BFF，说明前后端分工的历史演进，引入serverless，并介绍阿里内部如何落地serverless
